@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-19T04:10:39.888Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="zh93jqKvlIOiECKrDf7d" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-19T04:58:05.682Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Lo7EEv3OfPDn6FZbPMgR" version="20.5.3" type="github">
   <diagram id="IrCvx_c3wrKAdzY81lT7" name="Page-1">
-    <mxGraphModel dx="1382" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1745" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,7 +85,7 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C8x404jCfSZGu2IqOLWA-7" value="Member" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
+        <mxCell id="C8x404jCfSZGu2IqOLWA-7" value="Member" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="320" y="78" width="180" height="300" as="geometry" />
         </mxCell>
         <mxCell id="C8x404jCfSZGu2IqOLWA-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="C8x404jCfSZGu2IqOLWA-7" vertex="1">
@@ -205,7 +205,7 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C8x404jCfSZGu2IqOLWA-32" value="Membership Type" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
+        <mxCell id="C8x404jCfSZGu2IqOLWA-32" value="Membership Type" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeColor=#00FFFF;" parent="1" vertex="1">
           <mxGeometry x="320" y="440" width="180" height="210" as="geometry" />
         </mxCell>
         <mxCell id="C8x404jCfSZGu2IqOLWA-33" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="C8x404jCfSZGu2IqOLWA-32" vertex="1">
@@ -286,7 +286,7 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C8x404jCfSZGu2IqOLWA-79" value="Workout Plan" style="shape=table;startSize=20;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
+        <mxCell id="C8x404jCfSZGu2IqOLWA-79" value="Workout Plan" style="shape=table;startSize=20;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeColor=#FF00FF;" parent="1" vertex="1">
           <mxGeometry x="600" y="440" width="180" height="210" as="geometry" />
         </mxCell>
         <mxCell id="C8x404jCfSZGu2IqOLWA-80" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="C8x404jCfSZGu2IqOLWA-79" vertex="1">
@@ -409,7 +409,7 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C8x404jCfSZGu2IqOLWA-117" value="Payment" style="shape=table;startSize=20;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
+        <mxCell id="C8x404jCfSZGu2IqOLWA-117" value="Payment" style="shape=table;startSize=20;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeColor=#00FF00;" parent="1" vertex="1">
           <mxGeometry x="40" y="440" width="180" height="210" as="geometry" />
         </mxCell>
         <mxCell id="C8x404jCfSZGu2IqOLWA-118" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="C8x404jCfSZGu2IqOLWA-117" vertex="1">
@@ -490,7 +490,7 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C8x404jCfSZGu2IqOLWA-136" value="Instructor" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
+        <mxCell id="C8x404jCfSZGu2IqOLWA-136" value="Instructor" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeColor=#FFFF00;" parent="1" vertex="1">
           <mxGeometry x="600" y="80" width="180" height="210" as="geometry" />
         </mxCell>
         <mxCell id="C8x404jCfSZGu2IqOLWA-137" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="C8x404jCfSZGu2IqOLWA-136" vertex="1">
